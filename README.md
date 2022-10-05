@@ -6,4 +6,4 @@
 
 # Do check it out guys! Here is the image:
 
-![alt preview img](https://D:\Soujatyo\Code-Projects\SoujatyoCoder-Portfolio\SoujatyoCoderPortfolio.png)
+![alt preview img](https://soujatyocoderportfolio.netlify.app/)
