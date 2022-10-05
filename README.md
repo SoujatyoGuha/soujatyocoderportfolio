@@ -6,4 +6,4 @@
 
 # Do check it out guys! Here is the image:
 
-![alt preview img](https://github.com/SoujatyoGuha/soujatyocoderportfolio/blob/main/soujatyocoderportfolio.jpg?raw=true)
+![alt preview img](https://github.com/SoujatyoGuha/soujatyocoderportfolio/blob/main/soujatyocoderportfolio.png?raw=true)
